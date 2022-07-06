@@ -4,7 +4,7 @@ clikit==0.3.1
 colorama==0.4.1
 coverage==4.5.4
 green==2.16.1
-lxml==4.4.1
+lxml==4.9.1
 numpy==1.17.0
 pandas==0.24.2
 pastel==0.1.1
